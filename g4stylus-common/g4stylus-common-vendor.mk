@@ -22,7 +22,6 @@ PRODUCT_PACKAGES += \
     shutdownlistener \
     qcnvitems \
     qcrilhook \
-    libHevcSwDecoder \
     libtime_genoff
 
 $(call inherit-product, vendor/lge/g4stylus-common/g4stylus-common-vendor-blobs.mk)
