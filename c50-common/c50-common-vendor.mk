@@ -22,7 +22,6 @@ PRODUCT_PACKAGES += \
     shutdownlistener \
     qcnvitems \
     qcrilhook \
-    libHevcSwDecoder \
     libtime_genoff
 
 $(call inherit-product, vendor/lge/c50-common/c50-common-vendor-blobs.mk)
