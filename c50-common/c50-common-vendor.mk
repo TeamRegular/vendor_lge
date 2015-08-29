@@ -16,6 +16,9 @@
 
 # Pick up overlay for features that depend on non-open-source files
 PRODUCT_PACKAGES += \
+    CNEService \
+    cneapiclient \
+    com.quicinc.cne \
     com.qualcomm.location \
     TimeService \
     qcrilmsgtunnel \
