@@ -240,7 +240,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/c50-common/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/lge/c50-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/lge/c50-common/proprietary/bin/sensord:system/bin/sensord \
-    vendor/lge/c50-common/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/lge/c50-common/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/lge/c50-common/proprietary/lib/libproxyhal.so:system/lib/libproxyhal.so \
     vendor/lge/c50-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
