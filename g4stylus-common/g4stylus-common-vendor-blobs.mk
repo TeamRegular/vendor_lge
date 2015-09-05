@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/lge/g4stylus-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/lge/g4stylus-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
+    vendor/lge/g4stylus-common/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/lge/g4stylus-common/proprietary/lib/libarcsoft_beauty_shot.so:system/lib/libarcsoft_beauty_shot.so \
     vendor/lge/g4stylus-common/proprietary/lib/libHDR.so:system/lib/libHDR.so \
     vendor/lge/g4stylus-common/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
