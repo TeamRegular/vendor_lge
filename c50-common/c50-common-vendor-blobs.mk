@@ -114,19 +114,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/c50-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/lge/c50-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/lge/c50-common/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/lge/c50-common/proprietary/bin/cnd:system/bin/cnd \
-    vendor/lge/c50-common/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
-    vendor/lge/c50-common/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
-    vendor/lge/c50-common/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
-    vendor/lge/c50-common/proprietary/etc/permissions/com.quicinc.cne.xml:system/etc/permissions/com.quicinc.cne.xml \
-    vendor/lge/c50-common/proprietary/vendor/lib/libcne.so:system/vendor/lib/libcne.so \
-    vendor/lge/c50-common/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
-    vendor/lge/c50-common/proprietary/vendor/lib/libcneconn.so:system/vendor/lib/libcneconn.so \
-    vendor/lge/c50-common/proprietary/vendor/lib/libcneqmiutils.so:system/vendor/lib/libcneqmiutils.so \
-    vendor/lge/c50-common/proprietary/vendor/lib/libmasc.so:system/vendor/lib/libmasc.so \
-    vendor/lge/c50-common/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
-    vendor/lge/c50-common/proprietary/vendor/lib/libvendorconn.so:system/vendor/lib/libvendorconn.so \
-    vendor/lge/c50-common/proprietary/vendor/lib/libwqe.so:system/vendor/lib/libwqe.so \
     vendor/lge/c50-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/lge/c50-common/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
     vendor/lge/c50-common/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
