@@ -169,6 +169,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/bin/lowi-server:system/bin/lowi-server \
     vendor/lge/g4stylus-common/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/lge/g4stylus-common/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
+    vendor/lge/g4stylus-common/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
     vendor/lge/g4stylus-common/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/lge/g4stylus-common/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/lge/g4stylus-common/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
@@ -177,6 +178,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/lge/g4stylus-common/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/lge/g4stylus-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/lge/g4stylus-common/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/lge/g4stylus-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/lge/g4stylus-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/g4stylus-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
