@@ -73,6 +73,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/lib/hw/camera.msm8992.so:system/lib/hw/camera.msm8992.so \
     vendor/lge/g4-common/proprietary/lib/libarcsoft_beauty_shot.so:system/lib/libarcsoft_beauty_shot.so \
     vendor/lge/g4-common/proprietary/lib/libHDR.so:system/lib/libHDR.so \
+    vendor/lge/g4-common/proprietary/lib/liblgmda.so:system/lib/liblgmda.so \
     vendor/lge/g4-common/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/lge/g4-common/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/lge/g4-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
