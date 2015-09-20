@@ -368,8 +368,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/lge/g4-common/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
     vendor/lge/g4-common/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
-    vendor/lge/g4-common/proprietary/lib64/hw/consumerir.msm8992.so:system/lib64/hw/consumerir.msm8992.so \
-    vendor/lge/g4-common/proprietary/lib/hw/consumerir.msm8992.so:system/lib/hw/consumerir.msm8992.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libDivxDrm.so:system/vendor/lib64/libDivxDrm.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libExtendedExtractor.so:system/vendor/lib64/libExtendedExtractor.so \
     vendor/lge/g4-common/proprietary/vendor/lib64/libFlacSwDec.so:system/vendor/lib64/libFlacSwDec.so \
